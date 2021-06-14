@@ -18,7 +18,7 @@ for url in ListTetst:
         line.append(item.string)
     print(url, line)
 
-# # Обьем текста # # Обьем текста
+# # Обьем текста # # Обьем текста # # Обьем текста # # Обьем текста
 #     textContainer = soup.find('div', class_='seo-text-container').text
 #     textNameAsList = textContainer.split(' ')  # текст в тип список
 #
