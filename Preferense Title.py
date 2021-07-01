@@ -105,4 +105,4 @@ def title_quality(url):
         print(i + 1, ') ', item)
 
 
-print(title_quality('https://github.com/Zakir1986'))
+
